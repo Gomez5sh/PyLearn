@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularLearn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BDB_Basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Jscript" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PyLearn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/React/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dj_events_social_interaction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gomez5sh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react_learng" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple_shell" vcs="Git" />
+  </component>
+</project>
